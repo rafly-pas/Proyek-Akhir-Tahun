@@ -1,1 +1,7 @@
-# Proyek-Akhir-Tahun
+program list_kontak_temean;
+uses crt;
+
+const
+  MAX = 50;
+
+  
